@@ -1,0 +1,13 @@
+{
+  "domain": "honeygain",
+  "name": "Honeygain",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/honeygain",
+  "requirements": ["pyHoneygain==0.3.5"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@SplinterHead"],
+  "iot_class": "cloud_polling"
+}
